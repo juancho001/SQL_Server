@@ -1,0 +1,194 @@
+    Afganistán	1
+    Albania	1
+    Alemania	1
+    Andorra	1
+    Angola	1
+    Antigua y Barbuda	1
+    Arabia Saudita	1
+    Argelia	1
+    Argentina	1
+    Armenia	1
+    Australia	1
+    Austria	1
+    Azerbaiyán	1
+    Bahamas	1
+    Bangladés	1
+    Barbados	1
+    Baréin	1
+    Bélgica	1
+    Belice	1
+    Benín	1
+    Bielorrusia	1
+    Birmania	1
+    Bolivia	1
+    Bosnia y Herzegovina	1
+    Botsuana	1
+    Brasil	1
+    Brunéi	1
+    Bulgaria	1
+    Burkina Faso	1
+    Burundi	1
+    Bután	1
+    Cabo Verde	1
+    Camboya	1
+    Camerún	1
+    Canadá	1
+    Catar	1
+    Chad	1
+    Chile	1
+    China	1
+    Chipre	1
+    Ciudad del Vaticano	1
+    Colombia	1
+    Comoras	1
+    Corea del Norte	1
+    Corea del Sur	1
+    Costa de Marfil	1
+    Costa Rica	1
+    Croacia	1
+    Cuba	1
+    Dinamarca	1
+    Dominica	1
+    Ecuador	1
+    Egipto	1
+    El Salvador	1
+    Emiratos Árabes Unidos	1
+    Eritrea	1
+    Eslovaquia	1
+    Eslovenia	1
+    España	1
+    Estados Unidos	1
+    Estonia	1
+    Etiopía	1
+    Filipinas	1
+    Finlandia	1
+    Fiyi	1
+    Francia	1
+    Gabón	1
+    Gambia	1
+    Georgia	1
+    Ghana	1
+    Granada	1
+    Grecia	1
+    Guatemala	1
+    Guyana	1
+    Guinea	1
+    Guinea ecuatorial	1
+    Guinea-Bisáu	1
+    Haití	1
+    Honduras	1
+    Hungría	1
+    India	1
+    Indonesia	1
+    Irak	1
+    Irán	1
+    Irlanda	1
+    Islandia	1
+    Islas Marshall	1
+    Islas Salomón	1
+    Israel	1
+    Italia	1
+    Jamaica	1
+    Japón	1
+    Jordania	1
+    Kazajistán	1
+    Kenia	1
+    Kirguistán	1
+    Kiribati	1
+    Kuwait	1
+    Laos	1
+    Lesoto	1
+    Letonia	1
+    Líbano	1
+    Liberia	1
+    Libia	1
+    Liechtenstein	1
+    Lituania	1
+    Luxemburgo	1
+    Macedonia del Norte	1
+    Madagascar	1
+    Malasia	1
+    Malaui	1
+    Maldivas	1
+    Malí	1
+    Malta	1
+    Marruecos	1
+    Mauricio	1
+    Mauritania	1
+    México	1
+    Micronesia	1
+    Moldavia	1
+    Mónaco	1
+    Mongolia	1
+    Montenegro	1
+    Mozambique	1
+    Namibia	1
+    Nauru	1
+    Nepal	1
+    Nicaragua	1
+    Níger	1
+    Nigeria	1
+    Noruega	1
+    Nueva Zelanda	1
+    Omán	1
+    Países Bajos	1
+    Pakistán	1
+    Palaos	1
+    Panamá	1
+    Papúa Nueva Guinea	1
+    Paraguay	1
+    Perú	1
+    Polonia	1
+    Portugal	1
+    Reino Unido	1
+    República Centroafricana	1
+    República Checa	1
+    República del Congo	1
+    República Democrática del Congo	1
+    República Dominicana	1
+    República Sudafricana	1
+    Ruanda	1
+    Rumanía	1
+    Rusia	1
+    Samoa	1
+    San Cristóbal y Nieves	1
+    San Marino	1
+    San Vicente y las Granadinas	1
+    Santa Lucía	1
+    Santo Tomé y Príncipe	1
+    Senegal	1
+    Serbia	1
+    Seychelles	1
+    Sierra Leona	1
+    Singapur	1
+    Siria	1
+    Somalia	1
+    Sri Lanka	1
+    Suazilandia	1
+    Sudán	1
+    Sudán del Sur	1
+    Suecia	1
+    Suiza	1
+    Surinam	1
+    Tailandia	1
+    Tanzania	1
+    Tayikistán	1
+    Timor Oriental	1
+    Togo	1
+    Tonga	1
+    Trinidad y Tobago	1
+    Túnez	1
+    Turkmenistán	1
+    Turquía	1
+    Tuvalu	1
+    Ucrania	1
+    Uganda	1
+    Uruguay	1
+    Uzbekistán	1
+    Vanuatu	1
+    Venezuela	1
+    Vietnam	1
+    Yemen	1
+    Yibuti	1
+    Zambia	1
+    Zimbabue	1

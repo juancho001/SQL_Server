@@ -1,0 +1,22 @@
+cn_id_estado	cc_nombre_municipio	cl_status_municipio
+24	Almirante Padilla 	1
+24	Baralt 	1
+24	Bolívar 	1
+24	Cabimas 	1
+24	Catatumbo 	1
+24	Colón 	1
+24	Francisco Javier Pulgar 	1
+24	Guajira 	1
+24	Jesús Enrique Losada 	1
+24	Jesús María Semprún 	1
+24	La Cañada de Urdaneta 	1
+24	Lagunillas 	1
+24	Machiques de Perijá 	1
+24	Mara 	1
+24	Maracaibo 	1
+24	Miranda 	1
+24	Rosario de Perijá 	1
+24	San Francisco 	1
+24	Santa Rita 	1
+24	Sucre 	1
+24	Valmore Rodríguez 	1

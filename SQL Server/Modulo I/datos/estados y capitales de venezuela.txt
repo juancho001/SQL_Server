@@ -1,0 +1,24 @@
+1	1	Amazonas
+2	1	Anzoátegui
+3	1	Apure
+4	1	Aragua
+5	1	Barinas
+6	1	Bolívar
+7	1	Carabobo
+8	1	Cojedes
+9	1	Delta Amacuro
+10	1	Distrito Capital
+11	1	Falcón
+12	1	Guárico
+13	1	Lara
+14	1	Mérida
+15	1	Miranda
+16	1	Monagas
+17	1	Nueva Esparta
+18	1	Portuguesa
+19	1	Sucre
+20	1	Táchira
+21	1	Trujillo
+22	1	Vargas
+23	1	Yaracuy
+24	1	Zulia
