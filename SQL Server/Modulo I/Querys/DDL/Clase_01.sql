@@ -99,8 +99,18 @@ WITH PASSWORD = '123456**';
 		ADD NOMBRE_COLUMNA INT;
 
 	-- 3. VIEWS
+	ALTER VIEW MI_VISTA
+	AS
+	SELECT columna_1,columna_4 FROM [dbo].[pruebas];
+
 
 	-- 4. PROCEDURE
+	ALTER PROCEDURE MI_PROCEDURE
+	AS
+	BEGIN
+		SELECT columna_1,columna_4 FROM [dbo].[pruebas];
+	END;
+
 
 /*************
 * 3. DROP
